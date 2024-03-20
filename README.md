@@ -1,7 +1,6 @@
 # CSLFL
 Reduction And Cost-Sensitive Learning for Fault Localization
-# CSLFL
-Part Code and data of CSLFL method.
+
 # Building requirements
 Ubuntu 20.04.4 LTS
 
